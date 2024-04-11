@@ -16,7 +16,7 @@ import AboutUs from './Components/AboutUs/AboutUs';
 function App() {
   return (
     
-      <div className="wrapper">
+      <div id="wrapper">
        <Navbar />
        
        <div className="wrapp">

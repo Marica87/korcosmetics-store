@@ -15,7 +15,7 @@ const Navbar = () => {
         <header className='header'>
             <div className='header-menu'>
             <div className="header-nav">
-                <a href='#'  className="logo"  >Beauty&Kor</a>
+                <a href='/'  className="logo"  >Beauty&Kor</a>
                 <div className="head-navbar">
                     <Cart  />
                     

@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/korcosmetics-store/static/css/main.91df00e1.css",
-    "main.js": "/korcosmetics-store/static/js/main.4a9e02e9.js",
+    "main.js": "/korcosmetics-store/static/js/main.d8371391.js",
     "static/js/787.0d40c96e.chunk.js": "/korcosmetics-store/static/js/787.0d40c96e.chunk.js",
     "static/media/shopkorean.jpg": "/korcosmetics-store/static/media/shopkorean.be44a9469adb3b41d5f7.jpg",
     "static/media/flow.jpg": "/korcosmetics-store/static/media/flow.3733b2ff44c24ccbd0aa.jpg",
     "static/media/organic_oner.png": "/korcosmetics-store/static/media/organic_oner.6e7ff269c7a8888e5868.png",
     "index.html": "/korcosmetics-store/index.html",
     "main.91df00e1.css.map": "/korcosmetics-store/static/css/main.91df00e1.css.map",
-    "main.4a9e02e9.js.map": "/korcosmetics-store/static/js/main.4a9e02e9.js.map",
+    "main.d8371391.js.map": "/korcosmetics-store/static/js/main.d8371391.js.map",
     "787.0d40c96e.chunk.js.map": "/korcosmetics-store/static/js/787.0d40c96e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91df00e1.css",
-    "static/js/main.4a9e02e9.js"
+    "static/js/main.d8371391.js"
   ]
 }
